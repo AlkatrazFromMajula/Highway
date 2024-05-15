@@ -10,4 +10,7 @@ and building new splines. I believe that in development process I've got a prett
 The game itself is very simple and relaxing, pared with addictive gameplay loop Highway may steal couple of hours of your time in 
 the same way instagram reels or youtube shorts do. 
 
+In my next project I'm going to focus on learning some advanced UI techniques, exploring particle systems and VFX graphs, animating 
+a humanoid creature as well as on creating truly interesting and intense gameplay.
+
 In case you wish to try it out, open OUTDOORS SCENE, then press Play and you're good to go.
