@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db0866ab1db4d440a6b403acfb92fdf, type: 3}
+  m_Name: Porsche Carera Data
+  m_EditorClassIdentifier: 
+  originalPrefab: {fileID: 1757350593099735962, guid: a87dd5d8dc8f5c8469ce4525422aa694,
+    type: 3}
+  blankPrefab: {fileID: 1757350593099735962, guid: 839544f7349502e48b0ff9a6864033e7,
+    type: 3}
+  maxSpeed: 45
+  acceleration: 20
+  deceleration: 45
+  price: 160
+  IsBought: 0

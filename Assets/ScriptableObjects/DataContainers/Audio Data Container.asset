@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94b13f988b16e0f4899a2d58921a2437, type: 3}
+  m_Name: Audio Data Container
+  m_EditorClassIdentifier: 
+  collectCoinAC: {fileID: 8300000, guid: 93f47282b60334f0ea6ecd9e44879758, type: 3}
+  pressButtonAC: {fileID: 8300000, guid: 724131bc8a7f34041bb9f1701f0cb58d, type: 3}
+  startEngineAC: {fileID: 8300000, guid: 56c7ad2bedbbf3a4cbb0173ec0e9d740, type: 3}
+  driveEngineAC: {fileID: 8300000, guid: 132c1515ea005404fb6144c976c99ed6, type: 3}
+  musicACs:
+  - {fileID: 8300000, guid: 28943ffbdd8e6f74aacda817d7e69d52, type: 3}
+  - {fileID: 8300000, guid: 601fc4ac2ccddec45b99598233a3af2c, type: 3}
+  - {fileID: 8300000, guid: bfb09108865222e46a7b32539180aeda, type: 3}

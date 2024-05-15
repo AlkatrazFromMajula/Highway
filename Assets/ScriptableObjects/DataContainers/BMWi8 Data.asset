@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db0866ab1db4d440a6b403acfb92fdf, type: 3}
+  m_Name: BMWi8 Data
+  m_EditorClassIdentifier: 
+  originalPrefab: {fileID: 174839124221920732, guid: bc818123dbc9e94488e07aa7318e5e2a,
+    type: 3}
+  blankPrefab: {fileID: 174839124221920732, guid: 4a05781173f66194fa839b00bf724968,
+    type: 3}
+  maxSpeed: 50
+  acceleration: 25
+  deceleration: 45
+  price: 340
+  IsBought: 0

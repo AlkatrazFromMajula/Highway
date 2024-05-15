@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db0866ab1db4d440a6b403acfb92fdf, type: 3}
+  m_Name: Bugatti Veyron Data
+  m_EditorClassIdentifier: 
+  originalPrefab: {fileID: 1757832023680813981, guid: 664380eaa98d1de45bea74b47d871bdf,
+    type: 3}
+  blankPrefab: {fileID: 1757832023680813981, guid: d5aba7af816cb5047951adf2f13f047e,
+    type: 3}
+  maxSpeed: 50
+  acceleration: 30
+  deceleration: 50
+  price: 570
+  IsBought: 0

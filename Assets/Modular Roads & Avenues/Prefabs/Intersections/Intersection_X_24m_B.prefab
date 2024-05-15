@@ -1,0 +1,5640 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &50864379172154387
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1402630777595797785}
+  - component: {fileID: 7211967708003520654}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1402630777595797785
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 50864379172154387}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -13.999989, y: -4.5474735e-13, z: -4.0000057}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7211967708003520654
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 50864379172154387}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &123750734789915029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4062432972900034731}
+  - component: {fileID: 6716072689571602093}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4062432972900034731
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123750734789915029}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -18, y: -7.9580786e-13, z: -0.000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6716072689571602093
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123750734789915029}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &207286040004500840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5629568003046839907}
+  - component: {fileID: 2670233671017557108}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5629568003046839907
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207286040004500840}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000046362988, y: 0.70710564, z: 0.000000015454189, w: 0.70710796}
+  m_LocalPosition: {x: -5.9995728, y: -0.000001049138, z: -23.999313}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2670233671017557108
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207286040004500840}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &473650969447869124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6140508965247013138}
+  - component: {fileID: 3377685929761460192}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6140508965247013138
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 473650969447869124}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -14.000002, y: -8.362859e-13, z: -0.00001335144}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3377685929761460192
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 473650969447869124}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &743270876313753685
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3166327172042010102}
+  - component: {fileID: 8350717548896996036}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3166327172042010102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 743270876313753685}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -6.0000105, y: -6.004111e-13, z: -4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8350717548896996036
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 743270876313753685}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &951897525081067034
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6048893246896066682}
+  - component: {fileID: 3668094268319981333}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6048893246896066682
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 951897525081067034}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -14, y: -3.126388e-13, z: -0.000005722046}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3668094268319981333
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 951897525081067034}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1468635034851084870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4179736066657663450}
+  - component: {fileID: 3270232840541483169}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4179736066657663450
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1468635034851084870}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -10.00001, y: 3.5503284e-15, z: -3.9999905}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3270232840541483169
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1468635034851084870}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1492132952059740832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1020446387827605353}
+  - component: {fileID: 8519187840164108369}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1020446387827605353
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1492132952059740832}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -10, y: 2.2737368e-13, z: 0.0000038146973}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8519187840164108369
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1492132952059740832}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1594962167037343049
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3523814007209142635}
+  - component: {fileID: 8004553392584972976}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3523814007209142635
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1594962167037343049}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -10.000002, y: 1.6843666e-13, z: 0.000008583069}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8004553392584972976
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1594962167037343049}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1713630177968578295
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5923074635107126286}
+  - component: {fileID: 7240907951832786549}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5923074635107126286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713630177968578295}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -5.9999895, y: 4.5119344e-13, z: -7.9999995}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7240907951832786549
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713630177968578295}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1784724323724897786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3880534991476166561}
+  - component: {fileID: 8501439060856483440}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3880534991476166561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1784724323724897786}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -10, y: 3.806532e-13, z: 0.000009536743}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8501439060856483440
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1784724323724897786}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1788773872857121338
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1611052624069116457}
+  - component: {fileID: 7838794523892520551}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1611052624069116457
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788773872857121338}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000046362953, y: 0.70710534, z: 0.000000015454178, w: 0.70710826}
+  m_LocalPosition: {x: -10.001007, y: 0.0000013987358, z: 0.0019578934}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7838794523892520551
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788773872857121338}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1923116038459421209
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8427704766598206930}
+  - component: {fileID: 5505050325282080693}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8427704766598206930
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923116038459421209}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -9.999989, y: 7.425161e-13, z: -7.9999914}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5505050325282080693
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923116038459421209}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2005265867613937593
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8510692382795982170}
+  - component: {fileID: 6293493522562847623}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8510692382795982170
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2005265867613937593}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000004371145, y: 1, z: -0.000000021855797, w: 0.0000019967556}
+  m_LocalPosition: {x: 0.0018157959, y: -0.0000005245329, z: -17.998962}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6293493522562847623
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2005265867613937593}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2200431921827446118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6051544937940610987}
+  - component: {fileID: 5949552449911084567}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6051544937940610987
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2200431921827446118}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -17.999989, y: -9.094947e-13, z: -4.0000153}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5949552449911084567
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2200431921827446118}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2271090975263319844
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8097757548610960677}
+  - component: {fileID: 704628038726713900}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8097757548610960677
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2271090975263319844}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.7763572e-14, y: 1, z: -0.000000021855698, w: 0.0000011920929}
+  m_LocalPosition: {x: -23.999048, y: 0.0000003496787, z: -13.999634}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &704628038726713900
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2271090975263319844}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2482842385394488038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3894460987665195418}
+  - component: {fileID: 8469414284006171870}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3894460987665195418
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2482842385394488038}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -17.99999, y: -7.6738615e-13, z: -4.0000153}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8469414284006171870
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2482842385394488038}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2708034942893762470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5038828020973555644}
+  - component: {fileID: 7027026298590245553}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5038828020973555644
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2708034942893762470}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -13.9999895, y: -3.126388e-13, z: -4.0000057}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7027026298590245553
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2708034942893762470}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2752254578862601183
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1475651877418701171}
+  - component: {fileID: 4931928002337074169}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1475651877418701171
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2752254578862601183}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -18.000002, y: -2.550358e-13, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4931928002337074169
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2752254578862601183}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2756814136553391833
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2791271980137435144}
+  - component: {fileID: 629440445260995456}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2791271980137435144
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2756814136553391833}
+  serializedVersion: 2
+  m_LocalRotation: {x: -1.9539929e-14, y: 1, z: -0.000000021855698, w: 0.0000012516975}
+  m_LocalPosition: {x: -23.999954, y: 0.00000034967874, z: -17.999664}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &629440445260995456
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2756814136553391833}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2770823389063038736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4655647784668530113}
+  - component: {fileID: 7909178673704180854}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4655647784668530113
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2770823389063038736}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000004636298, y: 0.7071056, z: 0.000000015454255, w: 0.707108}
+  m_LocalPosition: {x: -9.999481, y: -0.0000010491365, z: -23.999844}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7909178673704180854
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2770823389063038736}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2888491540600085874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6127749210439707564}
+  - component: {fileID: 6285971239856197073}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6127749210439707564
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2888491540600085874}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -10.00001, y: 2.2737368e-13, z: -7.999996}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6285971239856197073
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2888491540600085874}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &2923018017250111501
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4359900834428327663}
+  - component: {fileID: 2418900966316074939}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4359900834428327663
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2923018017250111501}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454297, y: 0.70710766, z: -0.000000015454324, w: -0.70710593}
+  m_LocalPosition: {x: -18.000275, y: -2.4908265e-11, z: 0.00022888184}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2418900966316074939
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2923018017250111501}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &3005811765197973533
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4053375011517267396}
+  - component: {fileID: 8721687934377584523}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4053375011517267396
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3005811765197973533}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -18, y: -8.450532e-14, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8721687934377584523
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3005811765197973533}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &3142939333625892975
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 271821960903897609}
+  - component: {fileID: 6430875874599264361}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &271821960903897609
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3142939333625892975}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -5.999989, y: 2.8066324e-13, z: -8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6430875874599264361
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3142939333625892975}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &3300233067332677716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 74511449851858394}
+  - component: {fileID: 2259179756067485099}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &74511449851858394
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3300233067332677716}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -14.00001, y: -9.983149e-13, z: -4.0000124}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2259179756067485099
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3300233067332677716}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &3649072063383922494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1414774445263098600}
+  - component: {fileID: 2692816163176265866}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1414774445263098600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3649072063383922494}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000046362945, y: 0.70710546, z: 0.000000015454189, w: 0.70710814}
+  m_LocalPosition: {x: -6.0002747, y: 0.0000013986689, z: 0.0012359619}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2692816163176265866
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3649072063383922494}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &3716548775413849769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4592295786280611350}
+  - component: {fileID: 7589343174615308605}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4592295786280611350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3716548775413849769}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000154543, y: 0.70710766, z: -0.000000015454322, w: -0.70710593}
+  m_LocalPosition: {x: -14.0000305, y: 0.00000034972047, z: -23.9997}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7589343174615308605
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3716548775413849769}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &3881909187023795869
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8206768324261892419}
+  - component: {fileID: 1035976741751737364}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8206768324261892419
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3881909187023795869}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -9.9999895, y: 1.7053026e-13, z: -3.9999952}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1035976741751737364
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3881909187023795869}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4161841057372610245
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1778576228427839369}
+  - component: {fileID: 4229056750199415696}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1778576228427839369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4161841057372610245}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -18.000011, y: -4.938298e-13, z: -4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4229056750199415696
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4161841057372610245}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4293017933148058097
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6845186347260482787}
+  - component: {fileID: 904862424725908365}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6845186347260482787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4293017933148058097}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -14.00001, y: -3.126388e-13, z: -8.000006}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &904862424725908365
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4293017933148058097}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4338958907902675236
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 398567228669888737}
+  - component: {fileID: 7487690341832469505}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &398567228669888737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4338958907902675236}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855698, y: -0.0000011920929, z: 1.7763572e-14,
+    w: 1}
+  m_LocalPosition: {x: -24.000278, y: -3.2880393e-11, z: -9.999878}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7487690341832469505
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4338958907902675236}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4407790707947936589
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3788229762402619710}
+  - component: {fileID: 155957757603097274}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3788229762402619710
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4407790707947936589}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855712, y: -0.0000012516975, z: 0.000000043711598,
+    w: 1}
+  m_LocalPosition: {x: -0.00016784668, y: 0.00000087421716, z: -5.9991455}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &155957757603097274
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4407790707947936589}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4466712125903816225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1215470786494456918}
+  - component: {fileID: 6188924753829393046}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1215470786494456918
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4466712125903816225}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -9.999989, y: 8.846246e-13, z: -7.9999895}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6188924753829393046
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4466712125903816225}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4741605402227707740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3010750633855683741}
+  - component: {fileID: 6604283457413473559}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3010750633855683741
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4741605402227707740}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000154543, y: 0.70710766, z: -0.000000015454324, w: -0.70710593}
+  m_LocalPosition: {x: -18.00003, y: 0.0000003496945, z: -23.99965}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6604283457413473559
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4741605402227707740}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4763836971798584660
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 669424088554391598}
+  - component: {fileID: 5478301795833619804}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &669424088554391598
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4763836971798584660}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -6.000002, y: -1.8922483e-13, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5478301795833619804
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4763836971798584660}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4855095265847523238
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4822819942774230307}
+  - component: {fileID: 4973308541653617221}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4822819942774230307
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4855095265847523238}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -6.0000095, y: 6.82121e-13, z: -7.9999847}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4973308541653617221
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4855095265847523238}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &4969841599426832783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8762776662404172985}
+  - component: {fileID: 555135218166360610}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8762776662404172985
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4969841599426832783}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -10, y: 1.7053026e-13, z: 0.0000047683716}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &555135218166360610
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4969841599426832783}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &5003496068534351288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2868060530332080479}
+  - component: {fileID: 7673914688146169922}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2868060530332080479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5003496068534351288}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -5.9999895, y: 6.252776e-13, z: -3.9999847}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7673914688146169922
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5003496068534351288}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &5110509338166387502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5110509338166387475}
+  - component: {fileID: 5110509338166387500}
+  - component: {fileID: 5110509338166387501}
+  - component: {fileID: 8191789981376561363}
+  m_Layer: 0
+  m_Name: Intersection_X_24m_B
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &5110509338166387475
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5110509338166387502}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5468560978196024500}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5110509338166387500
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5110509338166387502}
+  m_Mesh: {fileID: 2120782133823027820, guid: 368006c83c502df42a067a754be1dffe, type: 3}
+--- !u!23 &5110509338166387501
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5110509338166387502}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 66da8915e50798448b84bcc0d90c9e5a, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8191789981376561363
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5110509338166387502}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2120782133823027820, guid: 368006c83c502df42a067a754be1dffe, type: 3}
+--- !u!1 &5110509339004520814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5110509339004520787}
+  - component: {fileID: 5110509339004520812}
+  - component: {fileID: 5110509339004520813}
+  - component: {fileID: 8116110889118788620}
+  m_Layer: 0
+  m_Name: Intersection_X_24m_B_Sidewalk
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &5110509339004520787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5110509339004520814}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5468560978196024500}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &5110509339004520812
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5110509339004520814}
+  m_Mesh: {fileID: 8347287210942936441, guid: 368006c83c502df42a067a754be1dffe, type: 3}
+--- !u!23 &5110509339004520813
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5110509339004520814}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 531a5cf7018c2f946b7b93ffd661ca9b, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8116110889118788620
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5110509339004520814}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8347287210942936441, guid: 368006c83c502df42a067a754be1dffe, type: 3}
+--- !u!1 &5145054144424855863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2422217675558694403}
+  - component: {fileID: 609247587185416891}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2422217675558694403
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5145054144424855863}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -9.999989, y: 1.1368684e-13, z: -3.9999962}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &609247587185416891
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5145054144424855863}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &5258223399191177178
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6960432537346028746}
+  - component: {fileID: 5211087035925655531}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6960432537346028746
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5258223399191177178}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -10.0000105, y: -2.096126e-13, z: -3.9999914}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5211087035925655531
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5258223399191177178}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &5319577861621337567
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3176202048640049995}
+  - component: {fileID: 179478558166552937}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3176202048640049995
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5319577861621337567}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -10.00001, y: 1.7053026e-13, z: -7.999995}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &179478558166552937
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5319577861621337567}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &5514447763054071724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2649958305873395470}
+  - component: {fileID: 8454383623141409909}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2649958305873395470
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5514447763054071724}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000154543, y: 0.70710766, z: -0.000000015454322, w: -0.70710593}
+  m_LocalPosition: {x: -14.000275, y: -7.5833775e-12, z: 0.00008583069}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8454383623141409909
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5514447763054071724}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &5702682088334937124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 848922892177202265}
+  - component: {fileID: 3882486706699495778}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &848922892177202265
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5702682088334937124}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -17.999989, y: 2.1671445e-13, z: -8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3882486706699495778
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5702682088334937124}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &5862250754503111142
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5898194684529135472}
+  - component: {fileID: 5591318959660397036}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5898194684529135472
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5862250754503111142}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -6.0000095, y: 6.252776e-13, z: -7.9999847}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5591318959660397036
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5862250754503111142}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &6139240513504015746
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1454487104653995308}
+  - component: {fileID: 75440567714470541}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1454487104653995308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6139240513504015746}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -18.00001, y: -7.9580786e-13, z: -8.000015}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &75440567714470541
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6139240513504015746}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &6186738107113131150
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1899638857141287561}
+  - component: {fileID: 6453828338396663982}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1899638857141287561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6186738107113131150}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -6.0000095, y: -4.2988074e-13, z: -4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6453828338396663982
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6186738107113131150}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &6457096020231566730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1183809794855041983}
+  - component: {fileID: 5180997854245463690}
+  m_Layer: 6
+  m_Name: Spline
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1183809794855041983
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6457096020231566730}
+  serializedVersion: 2
+  m_LocalRotation: {x: 2.6645353e-15, y: -0, z: 9.769963e-15, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8097757548610960677}
+  - {fileID: 4592295786280611350}
+  - {fileID: 2791271980137435144}
+  - {fileID: 3010750633855683741}
+  - {fileID: 4359900834428327663}
+  - {fileID: 5155531456292893822}
+  - {fileID: 2649958305873395470}
+  - {fileID: 398567228669888737}
+  - {fileID: 8068017245558607659}
+  - {fileID: 1611052624069116457}
+  - {fileID: 3788229762402619710}
+  - {fileID: 1414774445263098600}
+  - {fileID: 5629568003046839907}
+  - {fileID: 8510692382795982170}
+  - {fileID: 4655647784668530113}
+  - {fileID: 6618580886357152542}
+  m_Father: {fileID: 5468560978196024500}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5180997854245463690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6457096020231566730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dab5c7d4c32e743048dfca98e2d5914f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Spline:
+    m_EditModeType: 1
+    m_Knots: []
+    m_MetaData: []
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  m_Splines:
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: -23.999054
+        y: 0.00000034967888
+        z: -13.999634
+      TangentIn:
+        x: 0
+        y: 0
+        z: -5.000002
+      TangentOut:
+        x: 0
+        y: 0
+        z: 5.000002
+      Rotation:
+        value:
+          x: 9.205218e-16
+          y: 0.7071068
+          z: -9.20522e-16
+          w: 0.70710665
+    - Position:
+        x: -14.0000305
+        y: 0.00000034972072
+        z: -23.999695
+      TangentIn:
+        x: 0
+        y: 0
+        z: -5.0000005
+      TangentOut:
+        x: 0
+        y: 0
+        z: 5.0000005
+      Rotation:
+        value:
+          x: 1.2423523e-22
+          y: 1
+          z: 2.8421708e-15
+          w: -0.00000004371139
+    m_MetaData:
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: 0
+        T: 0
+      - Distance: 0.51733506
+        T: 0.03448276
+      - Distance: 1.0357518
+        T: 0.06896552
+      - Distance: 1.5561187
+        T: 0.10344828
+      - Distance: 2.079072
+        T: 0.13793103
+      - Distance: 2.6050391
+        T: 0.1724138
+      - Distance: 3.1342604
+        T: 0.20689656
+      - Distance: 3.6668162
+        T: 0.2413793
+      - Distance: 4.202633
+        T: 0.27586207
+      - Distance: 4.7415175
+        T: 0.31034482
+      - Distance: 5.2831683
+        T: 0.3448276
+      - Distance: 5.8271976
+        T: 0.37931034
+      - Distance: 6.3731456
+        T: 0.41379312
+      - Distance: 6.9205055
+        T: 0.44827586
+      - Distance: 7.468725
+        T: 0.4827586
+      - Distance: 8.017236
+        T: 0.51724136
+      - Distance: 8.565461
+        T: 0.55172414
+      - Distance: 9.112826
+        T: 0.5862069
+      - Distance: 9.658785
+        T: 0.62068963
+      - Distance: 10.202828
+        T: 0.6551724
+      - Distance: 10.7444935
+        T: 0.6896552
+      - Distance: 11.283394
+        T: 0.7241379
+      - Distance: 11.81923
+        T: 0.7586207
+      - Distance: 12.351807
+        T: 0.79310346
+      - Distance: 12.881049
+        T: 0.82758623
+      - Distance: 13.407034
+        T: 0.86206895
+      - Distance: 13.930005
+        T: 0.8965517
+      - Distance: 14.450384
+        T: 0.9310345
+      - Distance: 14.968813
+        T: 0.9655172
+      - Distance: 15.48615
+        T: 1
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: -1
+        T: -1
+      - Distance: 0.464962
+        T: 0.03448276
+      - Distance: 0.83028984
+        T: 0.06896552
+      - Distance: 1.103365
+        T: 0.10344828
+      - Distance: 1.291565
+        T: 0.13793103
+      - Distance: 1.4022713
+        T: 0.1724138
+      - Distance: 1.4428654
+        T: 0.20689656
+      - Distance: 1.4650078
+        T: 0.2413793
+      - Distance: 1.5425014
+        T: 0.27586207
+      - Distance: 1.6679688
+        T: 0.31034482
+      - Distance: 1.8340263
+        T: 0.3448276
+      - Distance: 2.0332966
+        T: 0.37931034
+      - Distance: 2.2584
+        T: 0.41379312
+      - Distance: 2.5019512
+        T: 0.44827586
+      - Distance: 2.7565746
+        T: 0.4827586
+      - Distance: 3.0148888
+        T: 0.51724136
+      - Distance: 3.2695084
+        T: 0.55172414
+      - Distance: 3.5130634
+        T: 0.5862069
+      - Distance: 3.738163
+        T: 0.62068963
+      - Distance: 3.9374352
+        T: 0.6551724
+      - Distance: 4.1034927
+        T: 0.6896552
+      - Distance: 4.228958
+        T: 0.7241379
+      - Distance: 4.3064537
+        T: 0.7586207
+      - Distance: 4.328594
+        T: 0.79310346
+      - Distance: 4.3691864
+        T: 0.82758623
+      - Distance: 4.4798927
+        T: 0.86206895
+      - Distance: 4.668091
+        T: 0.8965517
+      - Distance: 4.941166
+        T: 0.9310345
+      - Distance: 5.3064938
+        T: 0.9655172
+      - Distance: 5.7714577
+        T: 1
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: -23.999939
+        y: 0.00000034967888
+        z: -17.999664
+      TangentIn:
+        x: 0
+        y: 0
+        z: -0.84858906
+      TangentOut:
+        x: 0
+        y: 0
+        z: 2.9993608
+      Rotation:
+        value:
+          x: 9.205603e-16
+          y: 0.70710677
+          z: -9.205605e-16
+          w: 0.7071067
+    - Position:
+        x: -18.00003
+        y: 0.00000034969526
+        z: -23.999634
+      TangentIn:
+        x: 0
+        y: 0
+        z: -3.0002446
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0.84858865
+      Rotation:
+        value:
+          x: 9.1501346e-23
+          y: 1
+          z: 2.0933073e-15
+          w: -0.00000004371139
+    m_MetaData:
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: 0
+        T: 0
+      - Distance: 0.31034186
+        T: 0.03448276
+      - Distance: 0.62134236
+        T: 0.06896552
+      - Distance: 0.9335264
+        T: 0.10344828
+      - Distance: 1.2472719
+        T: 0.13793103
+      - Distance: 1.5628333
+        T: 0.1724138
+      - Distance: 1.8803577
+        T: 0.20689656
+      - Distance: 2.1998875
+        T: 0.2413793
+      - Distance: 2.5213804
+        T: 0.27586207
+      - Distance: 2.844718
+        T: 0.31034482
+      - Distance: 3.1697226
+        T: 0.3448276
+      - Distance: 3.4961543
+        T: 0.37931034
+      - Distance: 3.8237429
+        T: 0.41379312
+      - Distance: 4.152181
+        T: 0.44827586
+      - Distance: 4.481134
+        T: 0.4827586
+      - Distance: 4.8102636
+        T: 0.51724136
+      - Distance: 5.1392217
+        T: 0.55172414
+      - Distance: 5.467663
+        T: 0.5862069
+      - Distance: 5.7952623
+        T: 0.62068963
+      - Distance: 6.1217103
+        T: 0.6551724
+      - Distance: 6.446729
+        T: 0.6896552
+      - Distance: 6.7700896
+        T: 0.7241379
+      - Distance: 7.0916095
+        T: 0.7586207
+      - Distance: 7.4111753
+        T: 0.79310346
+      - Distance: 7.728738
+        T: 0.82758623
+      - Distance: 8.044346
+        T: 0.86206895
+      - Distance: 8.358148
+        T: 0.8965517
+      - Distance: 8.670394
+        T: 0.9310345
+      - Distance: 8.981471
+        T: 0.9655172
+      - Distance: 9.291897
+        T: 1
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: -1
+        T: -1
+      - Distance: 0.07150459
+        T: 0.03448276
+      - Distance: 0.112342834
+        T: 0.06896552
+      - Distance: 0.12535477
+        T: 0.10344828
+      - Distance: 0.13733101
+        T: 0.13793103
+      - Distance: 0.17145538
+        T: 0.1724138
+      - Distance: 0.22488403
+        T: 0.20689656
+      - Distance: 0.29478264
+        T: 0.2413793
+      - Distance: 0.37830734
+        T: 0.27586207
+      - Distance: 0.4726162
+        T: 0.31034482
+      - Distance: 0.5748787
+        T: 0.3448276
+      - Distance: 0.68224525
+        T: 0.37931034
+      - Distance: 0.79187965
+        T: 0.41379312
+      - Distance: 0.90093994
+        T: 0.44827586
+      - Distance: 1.0065918
+        T: 0.4827586
+      - Distance: 1.1059875
+        T: 0.51724136
+      - Distance: 1.1962929
+        T: 0.55172414
+      - Distance: 1.2746658
+        T: 0.5862069
+      - Distance: 1.3382683
+        T: 0.62068963
+      - Distance: 1.3842583
+        T: 0.6551724
+      - Distance: 1.4097939
+        T: 0.6896552
+      - Distance: 1.4120407
+        T: 0.7241379
+      - Distance: 1.4359264
+        T: 0.7586207
+      - Distance: 1.4887848
+        T: 0.79310346
+      - Distance: 1.573452
+        T: 0.82758623
+      - Distance: 1.6927757
+        T: 0.86206895
+      - Distance: 1.8495865
+        T: 0.8965517
+      - Distance: 2.04673
+        T: 0.9310345
+      - Distance: 2.2870445
+        T: 0.9655172
+      - Distance: 2.573372
+        T: 1
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: -18.000275
+        y: -2.5465852e-11
+        z: 0.00021362305
+      TangentIn:
+        x: 0
+        y: 0
+        z: -0.84855837
+      TangentOut:
+        x: 0
+        y: 0
+        z: 3.0000002
+      Rotation:
+        value:
+          x: 5.176468e-23
+          y: 1
+          z: 1.1842378e-15
+          w: -0.00000004371139
+    - Position:
+        x: -24.000214
+        y: -3.092282e-11
+        z: -5.999878
+      TangentIn:
+        x: 0
+        y: 0
+        z: -2.9999998
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0.84855825
+      Rotation:
+        value:
+          x: -1.5485627e-15
+          y: -0.70710677
+          z: -1.5485627e-15
+          w: 0.70710677
+    m_MetaData:
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: 0
+        T: 0
+      - Distance: 0.31040248
+        T: 0.03448276
+      - Distance: 0.6214602
+        T: 0.06896552
+      - Distance: 0.9336913
+        T: 0.10344828
+      - Distance: 1.2474762
+        T: 0.13793103
+      - Distance: 1.5630726
+        T: 0.1724138
+      - Distance: 1.8806264
+        T: 0.20689656
+      - Distance: 2.2001803
+        T: 0.2413793
+      - Distance: 2.5216928
+        T: 0.27586207
+      - Distance: 2.8450475
+        T: 0.31034482
+      - Distance: 3.170062
+        T: 0.3448276
+      - Distance: 3.4965024
+        T: 0.37931034
+      - Distance: 3.8240967
+        T: 0.41379312
+      - Distance: 4.152535
+        T: 0.44827586
+      - Distance: 4.48149
+        T: 0.4827586
+      - Distance: 4.8106184
+        T: 0.51724136
+      - Distance: 5.139574
+        T: 0.55172414
+      - Distance: 5.46801
+        T: 0.5862069
+      - Distance: 5.795601
+        T: 0.62068963
+      - Distance: 6.1220417
+        T: 0.6551724
+      - Distance: 6.4470525
+        T: 0.6896552
+      - Distance: 6.7704034
+        T: 0.7241379
+      - Distance: 7.0919137
+        T: 0.7586207
+      - Distance: 7.4114656
+        T: 0.79310346
+      - Distance: 7.7290173
+        T: 0.82758623
+      - Distance: 8.044611
+        T: 0.86206895
+      - Distance: 8.358394
+        T: 0.8965517
+      - Distance: 8.670622
+        T: 0.9310345
+      - Distance: 8.98168
+        T: 0.9655172
+      - Distance: 9.292081
+        T: 1
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: -1
+        T: -1
+      - Distance: 0.07149983
+        T: 0.03448276
+      - Distance: 0.112329096
+        T: 0.06896552
+      - Distance: 0.12532818
+        T: 0.10344828
+      - Distance: 0.13731888
+        T: 0.13793103
+      - Distance: 0.171459
+        T: 0.1724138
+      - Distance: 0.22490814
+        T: 0.20689656
+      - Distance: 0.294826
+        T: 0.2413793
+      - Distance: 0.37837204
+        T: 0.27586207
+      - Distance: 0.472706
+        T: 0.31034482
+      - Distance: 0.57498753
+        T: 0.3448276
+      - Distance: 0.682376
+        T: 0.37931034
+      - Distance: 0.7920316
+        T: 0.41379312
+      - Distance: 0.90111315
+        T: 0.44827586
+      - Distance: 1.0067809
+        T: 0.4827586
+      - Distance: 1.1061944
+        T: 0.51724136
+      - Distance: 1.1965127
+        T: 0.55172414
+      - Distance: 1.2748961
+        T: 0.5862069
+      - Distance: 1.3385037
+        T: 0.62068963
+      - Distance: 1.3844961
+        T: 0.6551724
+      - Distance: 1.4100317
+        T: 0.6896552
+      - Distance: 1.4122707
+        T: 0.7241379
+      - Distance: 1.4361688
+        T: 0.7586207
+      - Distance: 1.4890443
+        T: 0.79310346
+      - Distance: 1.5737374
+        T: 0.82758623
+      - Distance: 1.6930895
+        T: 0.86206895
+      - Distance: 1.8499395
+        T: 0.8965517
+      - Distance: 2.047129
+        T: 0.9310345
+      - Distance: 2.2874966
+        T: 0.9655172
+      - Distance: 2.5738852
+        T: 1
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: -14.000275
+        y: -7.275958e-12
+        z: 0.000091552734
+      TangentIn:
+        x: 0
+        y: 0
+        z: -4.0000005
+      TangentOut:
+        x: 0
+        y: 0
+        z: 5.0000005
+      Rotation:
+        value:
+          x: 1.2423523e-22
+          y: 1
+          z: 2.8421708e-15
+          w: -0.00000004371139
+    - Position:
+        x: -24.000275
+        y: -3.274181e-11
+        z: -9.999878
+      TangentIn:
+        x: 0
+        y: 0
+        z: -5
+      TangentOut:
+        x: 0
+        y: 0
+        z: 3.9999998
+      Rotation:
+        value:
+          x: -9.205235e-16
+          y: -0.70710665
+          z: -9.205234e-16
+          w: 0.7071068
+    m_MetaData:
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: 0
+        T: 0
+      - Distance: 0.51733685
+        T: 0.03448276
+      - Distance: 1.0357647
+        T: 0.06896552
+      - Distance: 1.5561469
+        T: 0.10344828
+      - Distance: 2.0791187
+        T: 0.13793103
+      - Distance: 2.60511
+        T: 0.1724138
+      - Distance: 3.1343608
+        T: 0.20689656
+      - Distance: 3.6669466
+        T: 0.2413793
+      - Distance: 4.202796
+        T: 0.27586207
+      - Distance: 4.741714
+        T: 0.31034482
+      - Distance: 5.2834005
+        T: 0.3448276
+      - Distance: 5.827465
+        T: 0.37931034
+      - Distance: 6.3734503
+        T: 0.41379312
+      - Distance: 6.920845
+        T: 0.44827586
+      - Distance: 7.4690976
+        T: 0.4827586
+      - Distance: 8.017642
+        T: 0.51724136
+      - Distance: 8.565898
+        T: 0.55172414
+      - Distance: 9.113292
+        T: 0.5862069
+      - Distance: 9.659277
+        T: 0.62068963
+      - Distance: 10.2033415
+        T: 0.6551724
+      - Distance: 10.745028
+        T: 0.6896552
+      - Distance: 11.283945
+        T: 0.7241379
+      - Distance: 11.819797
+        T: 0.7586207
+      - Distance: 12.352383
+        T: 0.79310346
+      - Distance: 12.881634
+        T: 0.82758623
+      - Distance: 13.407625
+        T: 0.86206895
+      - Distance: 13.930599
+        T: 0.8965517
+      - Distance: 14.450979
+        T: 0.9310345
+      - Distance: 14.969409
+        T: 0.9655172
+      - Distance: 15.486746
+        T: 1
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: -1
+        T: -1
+      - Distance: 0.3685268
+        T: 0.03448276
+      - Distance: 0.65094924
+        T: 0.06896552
+      - Distance: 0.8539096
+        T: 0.10344828
+      - Distance: 0.98405015
+        T: 0.13793103
+      - Distance: 1.0480133
+        T: 0.1724138
+      - Distance: 1.0524417
+        T: 0.20689656
+      - Distance: 1.1009063
+        T: 0.2413793
+      - Distance: 1.195621
+        T: 0.27586207
+      - Distance: 1.3299437
+        T: 0.31034482
+      - Distance: 1.4972323
+        T: 0.3448276
+      - Distance: 1.690844
+        T: 0.37931034
+      - Distance: 1.9041374
+        T: 0.41379312
+      - Distance: 2.1304688
+        T: 0.44827586
+      - Distance: 2.3631964
+        T: 0.4827586
+      - Distance: 2.5956786
+        T: 0.51724136
+      - Distance: 2.821272
+        T: 0.55172414
+      - Distance: 3.0333347
+        T: 0.5862069
+      - Distance: 3.2252238
+        T: 0.62068963
+      - Distance: 3.390299
+        T: 0.6551724
+      - Distance: 3.5219154
+        T: 0.6896552
+      - Distance: 3.6134315
+        T: 0.7241379
+      - Distance: 3.658206
+        T: 0.7586207
+      - Distance: 3.6668162
+        T: 0.79310346
+      - Distance: 3.7354534
+        T: 0.82758623
+      - Distance: 3.8707616
+        T: 0.86206895
+      - Distance: 4.0793796
+        T: 0.8965517
+      - Distance: 4.3679533
+        T: 0.9310345
+      - Distance: 4.7431207
+        T: 0.9655172
+      - Distance: 5.2115293
+        T: 1
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: 0.000061035156
+        y: 0.00000052448195
+        z: -9.999512
+      TangentIn:
+        x: 0
+        y: 0
+        z: -5
+      TangentOut:
+        x: 0
+        y: 0
+        z: 5
+      Rotation:
+        value:
+          x: -0.000000030908744
+          y: -0.70710665
+          z: 0.00000003090874
+          w: 0.7071068
+    - Position:
+        x: -10.001007
+        y: 0.0000013987355
+        z: 0.001953125
+      TangentIn:
+        x: 0
+        y: 0
+        z: -5
+      TangentOut:
+        x: 0
+        y: 0
+        z: 5
+      Rotation:
+        value:
+          x: -0.00000004371127
+          y: -0.0000007490305
+          z: -4.6899828e-14
+          w: 1
+    m_MetaData:
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: 0
+        T: 0
+      - Distance: 0.5173408
+        T: 0.03448276
+      - Distance: 1.035781
+        T: 0.06896552
+      - Distance: 1.5561843
+        T: 0.10344828
+      - Distance: 2.079187
+        T: 0.13793103
+      - Distance: 2.6052177
+        T: 0.1724138
+      - Distance: 3.1345167
+        T: 0.20689656
+      - Distance: 3.6671588
+        T: 0.2413793
+      - Distance: 4.2030725
+        T: 0.27586207
+      - Distance: 4.742062
+        T: 0.31034482
+      - Distance: 5.283825
+        T: 0.3448276
+      - Distance: 5.827972
+        T: 0.37931034
+      - Distance: 6.374044
+        T: 0.41379312
+      - Distance: 6.9215274
+        T: 0.44827586
+      - Distance: 7.4698744
+        T: 0.4827586
+      - Distance: 8.018512
+        T: 0.51724136
+      - Distance: 8.56686
+        T: 0.55172414
+      - Distance: 9.114347
+        T: 0.5862069
+      - Distance: 9.660421
+        T: 0.62068963
+      - Distance: 10.204574
+        T: 0.6551724
+      - Distance: 10.746343
+        T: 0.6896552
+      - Distance: 11.285338
+        T: 0.7241379
+      - Distance: 11.82126
+        T: 0.7586207
+      - Distance: 12.353911
+        T: 0.79310346
+      - Distance: 12.883219
+        T: 0.82758623
+      - Distance: 13.409256
+        T: 0.86206895
+      - Distance: 13.932266
+        T: 0.8965517
+      - Distance: 14.452675
+        T: 0.9310345
+      - Distance: 14.971119
+        T: 0.9655172
+      - Distance: 15.4884615
+        T: 1
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: -1
+        T: -1
+      - Distance: 0.4649637
+        T: 0.03448276
+      - Distance: 0.8302923
+        T: 0.06896552
+      - Distance: 1.1033663
+        T: 0.10344828
+      - Distance: 1.2915658
+        T: 0.13793103
+      - Distance: 1.4022714
+        T: 0.1724138
+      - Distance: 1.4428636
+        T: 0.20689656
+      - Distance: 1.4650047
+        T: 0.2413793
+      - Distance: 1.5424987
+        T: 0.27586207
+      - Distance: 1.667965
+        T: 0.31034482
+      - Distance: 1.8340235
+        T: 0.3448276
+      - Distance: 2.0332937
+        T: 0.37931034
+      - Distance: 2.2583954
+        T: 0.41379312
+      - Distance: 2.5019476
+        T: 0.44827586
+      - Distance: 2.7565706
+        T: 0.4827586
+      - Distance: 3.014884
+        T: 0.51724136
+      - Distance: 3.2695065
+        T: 0.55172414
+      - Distance: 3.5130591
+        T: 0.5862069
+      - Distance: 3.73816
+        T: 0.62068963
+      - Distance: 3.937431
+        T: 0.6551724
+      - Distance: 4.1034894
+        T: 0.6896552
+      - Distance: 4.2289553
+        T: 0.7241379
+      - Distance: 4.30645
+        T: 0.7586207
+      - Distance: 4.3285913
+        T: 0.79310346
+      - Distance: 4.369183
+        T: 0.82758623
+      - Distance: 4.4798903
+        T: 0.86206895
+      - Distance: 4.6680894
+        T: 0.8965517
+      - Distance: 4.941164
+        T: 0.9310345
+      - Distance: 5.306491
+        T: 0.9655172
+      - Distance: 5.7714553
+        T: 1
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: -0.00018310547
+        y: 0.0000008742172
+        z: -5.9991455
+      TangentIn:
+        x: 0
+        y: 0
+        z: -0.8485886
+      TangentOut:
+        x: 0
+        y: 0
+        z: 2.9993598
+      Rotation:
+        value:
+          x: -0.000000030908726
+          y: -0.7071067
+          z: 0.000000030908783
+          w: 0.70710677
+    - Position:
+        x: -6.0002747
+        y: 0.0000013986682
+        z: 0.0012207031
+      TangentIn:
+        x: 0
+        y: 0
+        z: -3.0002446
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0.8485886
+      Rotation:
+        value:
+          x: -0.00000004371128
+          y: -0.00000061193975
+          z: -3.743782e-14
+          w: 1
+    m_MetaData:
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: 0
+        T: 0
+      - Distance: 0.3103407
+        T: 0.03448276
+      - Distance: 0.6213458
+        T: 0.06896552
+      - Distance: 0.93353266
+        T: 0.10344828
+      - Distance: 1.2472826
+        T: 0.13793103
+      - Distance: 1.5628524
+        T: 0.1724138
+      - Distance: 1.8803861
+        T: 0.20689656
+      - Distance: 2.1999276
+        T: 0.2413793
+      - Distance: 2.521434
+        T: 0.27586207
+      - Distance: 2.8447874
+        T: 0.31034482
+      - Distance: 3.1698065
+        T: 0.3448276
+      - Distance: 3.4962575
+        T: 0.37931034
+      - Distance: 3.8238647
+        T: 0.41379312
+      - Distance: 4.152321
+        T: 0.44827586
+      - Distance: 4.481296
+        T: 0.4827586
+      - Distance: 4.8104467
+        T: 0.51724136
+      - Distance: 5.1394258
+        T: 0.55172414
+      - Distance: 5.46789
+        T: 0.5862069
+      - Distance: 5.795509
+        T: 0.62068963
+      - Distance: 6.121977
+        T: 0.6551724
+      - Distance: 6.4470167
+        T: 0.6896552
+      - Distance: 6.7703958
+        T: 0.7241379
+      - Distance: 7.091934
+        T: 0.7586207
+      - Distance: 7.411514
+        T: 0.79310346
+      - Distance: 7.729091
+        T: 0.82758623
+      - Distance: 8.044711
+        T: 0.86206895
+      - Distance: 8.3585205
+        T: 0.8965517
+      - Distance: 8.670774
+        T: 0.9310345
+      - Distance: 8.981855
+        T: 0.9655172
+      - Distance: 9.292283
+        T: 1
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: -1
+        T: -1
+      - Distance: 0.07150495
+        T: 0.03448276
+      - Distance: 0.11234302
+        T: 0.06896552
+      - Distance: 0.12535416
+        T: 0.10344828
+      - Distance: 0.13733003
+        T: 0.13793103
+      - Distance: 0.171453
+        T: 0.1724138
+      - Distance: 0.22488312
+        T: 0.20689656
+      - Distance: 0.29478043
+        T: 0.2413793
+      - Distance: 0.37830508
+        T: 0.27586207
+      - Distance: 0.47261697
+        T: 0.31034482
+      - Distance: 0.5748764
+        T: 0.3448276
+      - Distance: 0.6822433
+        T: 0.37931034
+      - Distance: 0.791878
+        T: 0.41379312
+      - Distance: 0.90094
+        T: 0.44827586
+      - Distance: 1.0065897
+        T: 0.4827586
+      - Distance: 1.1059873
+        T: 0.51724136
+      - Distance: 1.1962928
+        T: 0.55172414
+      - Distance: 1.2746661
+        T: 0.5862069
+      - Distance: 1.3382671
+        T: 0.62068963
+      - Distance: 1.3842568
+        T: 0.6551724
+      - Distance: 1.4097943
+        T: 0.6896552
+      - Distance: 1.4120398
+        T: 0.7241379
+      - Distance: 1.4359257
+        T: 0.7586207
+      - Distance: 1.4887834
+        T: 0.79310346
+      - Distance: 1.5734526
+        T: 0.82758623
+      - Distance: 1.6927739
+        T: 0.86206895
+      - Distance: 1.8495861
+        T: 0.8965517
+      - Distance: 2.04673
+        T: 0.9310345
+      - Distance: 2.2870443
+        T: 0.9655172
+      - Distance: 2.573371
+        T: 1
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: -5.9995728
+        y: -0.0000010491385
+        z: -23.999329
+      TangentIn:
+        x: 0
+        y: 0
+        z: -0.84855837
+      TangentOut:
+        x: 0
+        y: 0
+        z: 3
+      Rotation:
+        value:
+          x: -0.000000043711317
+          y: -0.00000037352115
+          z: -6.941223e-14
+          w: 1
+    - Position:
+        x: 0.0018310547
+        y: -0.0000005245329
+        z: -17.998962
+      TangentIn:
+        x: 0
+        y: 0
+        z: -3.0000012
+      TangentOut:
+        x: 0
+        y: 0
+        z: 0.84855884
+      Rotation:
+        value:
+          x: -0.000000030908605
+          y: 0.7071063
+          z: -0.00000003090867
+          w: 0.70710725
+    m_MetaData:
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: 0
+        T: 0
+      - Distance: 0.31040502
+        T: 0.03448276
+      - Distance: 0.62146777
+        T: 0.06896552
+      - Distance: 0.9337031
+        T: 0.10344828
+      - Distance: 1.2475032
+        T: 0.13793103
+      - Distance: 1.5631199
+        T: 0.1724138
+      - Distance: 1.8806958
+        T: 0.20689656
+      - Distance: 2.2002783
+        T: 0.2413793
+      - Distance: 2.5218267
+        T: 0.27586207
+      - Distance: 2.8452194
+        T: 0.31034482
+      - Distance: 3.170279
+        T: 0.3448276
+      - Distance: 3.496771
+        T: 0.37931034
+      - Distance: 3.8244195
+        T: 0.41379312
+      - Distance: 4.1529155
+        T: 0.44827586
+      - Distance: 4.4819317
+        T: 0.4827586
+      - Distance: 4.8111215
+        T: 0.51724136
+      - Distance: 5.140142
+        T: 0.55172414
+      - Distance: 5.468646
+        T: 0.5862069
+      - Distance: 5.7963033
+        T: 0.62068963
+      - Distance: 6.122809
+        T: 0.6551724
+      - Distance: 6.4478846
+        T: 0.6896552
+      - Distance: 6.7712955
+        T: 0.7241379
+      - Distance: 7.092863
+        T: 0.7586207
+      - Distance: 7.4124675
+        T: 0.79310346
+      - Distance: 7.7300644
+        T: 0.82758623
+      - Distance: 8.045699
+        T: 0.86206895
+      - Distance: 8.359515
+        T: 0.8965517
+      - Distance: 8.671768
+        T: 0.9310345
+      - Distance: 8.98284
+        T: 0.9655172
+      - Distance: 9.293247
+        T: 1
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: -1
+        T: -1
+      - Distance: 0.07149887
+        T: 0.03448276
+      - Distance: 0.112327576
+        T: 0.06896552
+      - Distance: 0.12532997
+        T: 0.10344828
+      - Distance: 0.13732338
+        T: 0.13793103
+      - Distance: 0.17146301
+        T: 0.1724138
+      - Distance: 0.22491074
+        T: 0.20689656
+      - Distance: 0.29482841
+        T: 0.2413793
+      - Distance: 0.3783741
+        T: 0.27586207
+      - Distance: 0.47270966
+        T: 0.31034482
+      - Distance: 0.5749912
+        T: 0.3448276
+      - Distance: 0.68237877
+        T: 0.37931034
+      - Distance: 0.79203415
+        T: 0.41379312
+      - Distance: 0.9011173
+        T: 0.44827586
+      - Distance: 1.0067863
+        T: 0.4827586
+      - Distance: 1.1061974
+        T: 0.51724136
+      - Distance: 1.1965141
+        T: 0.55172414
+      - Distance: 1.2749004
+        T: 0.5862069
+      - Distance: 1.3385086
+        T: 0.62068963
+      - Distance: 1.3844986
+        T: 0.6551724
+      - Distance: 1.4100361
+        T: 0.6896552
+      - Distance: 1.4122734
+        T: 0.7241379
+      - Distance: 1.4361706
+        T: 0.7586207
+      - Distance: 1.4890461
+        T: 0.79310346
+      - Distance: 1.5737381
+        T: 0.82758623
+      - Distance: 1.6930923
+        T: 0.86206895
+      - Distance: 1.8499413
+        T: 0.8965517
+      - Distance: 2.0471306
+        T: 0.9310345
+      - Distance: 2.2874985
+        T: 0.9655172
+      - Distance: 2.5738869
+        T: 1
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  - m_EditModeType: 1
+    m_Knots:
+    - Position:
+        x: -9.999481
+        y: -0.0000010491367
+        z: -23.999847
+      TangentIn:
+        x: 0
+        y: 0
+        z: -4
+      TangentOut:
+        x: 0
+        y: 0
+        z: 5.0000005
+      Rotation:
+        value:
+          x: -0.000000043711353
+          y: -0.00000042120485
+          z: -1.6701755e-14
+          w: 1
+    - Position:
+        x: 0.00033569336
+        y: -0.0000001748831
+        z: -13.999573
+      TangentIn:
+        x: 0
+        y: 0
+        z: -5.000002
+      TangentOut:
+        x: 0
+        y: 0
+        z: 4.000001
+      Rotation:
+        value:
+          x: -0.000000030908623
+          y: 0.70710665
+          z: -0.000000030908797
+          w: 0.7071069
+    m_MetaData:
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: 0
+        T: 0
+      - Distance: 0.51733696
+        T: 0.03448276
+      - Distance: 1.0357685
+        T: 0.06896552
+      - Distance: 1.5561533
+        T: 0.10344828
+      - Distance: 2.0791316
+        T: 0.13793103
+      - Distance: 2.6051316
+        T: 0.1724138
+      - Distance: 3.134386
+        T: 0.20689656
+      - Distance: 3.666981
+        T: 0.2413793
+      - Distance: 4.20284
+        T: 0.27586207
+      - Distance: 4.741763
+        T: 0.31034482
+      - Distance: 5.2834578
+        T: 0.3448276
+      - Distance: 5.8275294
+        T: 0.37931034
+      - Distance: 6.373521
+        T: 0.41379312
+      - Distance: 6.92092
+        T: 0.44827586
+      - Distance: 7.46918
+        T: 0.4827586
+      - Distance: 8.017728
+        T: 0.51724136
+      - Distance: 8.565986
+        T: 0.55172414
+      - Distance: 9.113383
+        T: 0.5862069
+      - Distance: 9.65937
+        T: 0.62068963
+      - Distance: 10.203436
+        T: 0.6551724
+      - Distance: 10.745123
+        T: 0.6896552
+      - Distance: 11.28404
+        T: 0.7241379
+      - Distance: 11.81989
+        T: 0.7586207
+      - Distance: 12.352475
+        T: 0.79310346
+      - Distance: 12.881724
+        T: 0.82758623
+      - Distance: 13.407713
+        T: 0.86206895
+      - Distance: 13.930684
+        T: 0.8965517
+      - Distance: 14.451064
+        T: 0.9310345
+      - Distance: 14.969491
+        T: 0.9655172
+      - Distance: 15.486828
+        T: 1
+    - Mode: 3
+      Tension: 0.5
+      m_DistanceToInterpolation:
+      - Distance: -1
+        T: -1
+      - Distance: 0.36852646
+        T: 0.03448276
+      - Distance: 0.6509495
+        T: 0.06896552
+      - Distance: 0.85391045
+        T: 0.10344828
+      - Distance: 0.98404884
+        T: 0.13793103
+      - Distance: 1.0480118
+        T: 0.1724138
+      - Distance: 1.0524426
+        T: 0.20689656
+      - Distance: 1.1009083
+        T: 0.2413793
+      - Distance: 1.1956215
+        T: 0.27586207
+      - Distance: 1.3299465
+        T: 0.31034482
+      - Distance: 1.4972343
+        T: 0.3448276
+      - Distance: 1.6908455
+        T: 0.37931034
+      - Distance: 1.9041405
+        T: 0.41379312
+      - Distance: 2.1304703
+        T: 0.44827586
+      - Distance: 2.3631992
+        T: 0.4827586
+      - Distance: 2.5956802
+        T: 0.51724136
+      - Distance: 2.8212738
+        T: 0.55172414
+      - Distance: 3.0333366
+        T: 0.5862069
+      - Distance: 3.2252274
+        T: 0.62068963
+      - Distance: 3.3903008
+        T: 0.6551724
+      - Distance: 3.5219173
+        T: 0.6896552
+      - Distance: 3.6134338
+        T: 0.7241379
+      - Distance: 3.658207
+        T: 0.7586207
+      - Distance: 3.6668148
+        T: 0.79310346
+      - Distance: 3.7354527
+        T: 0.82758623
+      - Distance: 3.8707619
+        T: 0.86206895
+      - Distance: 4.07938
+        T: 0.8965517
+      - Distance: 4.3679543
+        T: 0.9310345
+      - Distance: 4.74312
+        T: 0.9655172
+      - Distance: 5.211529
+        T: 1
+    m_Closed: 0
+    m_IntData:
+      m_Data: []
+    m_FloatData:
+      m_Data: []
+    m_Float4Data:
+      m_Data: []
+    m_ObjectData:
+      m_Data: []
+  m_Knots:
+    m_KnotsLink: []
+--- !u!1 &6592702916295768369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5155531456292893822}
+  - component: {fileID: 7789859785857936560}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5155531456292893822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6592702916295768369}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855698, y: -0.0000013113022, z: 2.0428107e-14,
+    w: 1}
+  m_LocalPosition: {x: -24.000229, y: -3.1068505e-11, z: -5.999878}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7789859785857936560
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6592702916295768369}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &6699003217495858822
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5152324931557589369}
+  - component: {fileID: 4713085561634481885}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5152324931557589369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6699003217495858822}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -17.999989, y: 4.4408813e-13, z: -8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4713085561634481885
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6699003217495858822}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &6761088439203458263
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5551210860153881298}
+  - component: {fileID: 6691201194835803409}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5551210860153881298
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6761088439203458263}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -14.00001, y: -3.410605e-13, z: -8.000006}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6691201194835803409
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6761088439203458263}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &7149432223620590970
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5664149043594339974}
+  - component: {fileID: 5634324499325110726}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5664149043594339974
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7149432223620590970}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -14, y: -5.823829e-13, z: -0.000011444092}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5634324499325110726
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7149432223620590970}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &7184855315516772127
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4097954164363932720}
+  - component: {fileID: 1052651488144191112}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4097954164363932720
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7184855315516772127}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -6, y: 6.252776e-13, z: 0.000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1052651488144191112
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7184855315516772127}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &7330548470471380031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6318741048657668368}
+  - component: {fileID: 5753574289708329893}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6318741048657668368
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7330548470471380031}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -5.9999886, y: 5.684342e-13, z: -3.9999847}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5753574289708329893
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7330548470471380031}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &7665031461744989639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2566118386734095408}
+  - component: {fileID: 4316405047049267155}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2566118386734095408
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7665031461744989639}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -13.999989, y: -2.7356004e-13, z: -8.000011}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4316405047049267155
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7665031461744989639}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &7913014703893928487
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4125692693805059459}
+  - component: {fileID: 212596174148526595}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4125692693805059459
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7913014703893928487}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -18, y: -7.6738615e-13, z: -0.000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &212596174148526595
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7913014703893928487}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &7995273912157817499
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5468560978196024500}
+  m_Layer: 0
+  m_Name: Intersection_X_24m_B
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &5468560978196024500
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7995273912157817499}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5110509338166387475}
+  - {fileID: 5110509339004520787}
+  - {fileID: 6086020471332051888}
+  - {fileID: 600208678600567447}
+  - {fileID: 1239014554520020972}
+  - {fileID: 3763904574408414311}
+  - {fileID: 1183809794855041983}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8331695800034895584
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 299791272078740569}
+  - component: {fileID: 2729153679986643506}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &299791272078740569
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8331695800034895584}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: 1, z: -0.000000021855694, w: 0.000002592802}
+  m_LocalPosition: {x: -6, y: -4.7116228e-14, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2729153679986643506
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8331695800034895584}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &8363578350895063899
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1059463054467749204}
+  - component: {fileID: 1832014343672304283}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1059463054467749204
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8363578350895063899}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -18.00001, y: -7.6738615e-13, z: -8.000015}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8750944784949147077}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1832014343672304283
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8363578350895063899}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &8673705276831875110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2804566052072366469}
+  - component: {fileID: 1386470863565731414}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2804566052072366469
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8673705276831875110}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -14.0000105, y: -1.1688453e-12, z: -4.0000114}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1386470863565731414
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8673705276831875110}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &8707080395566739937
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1644210708597460273}
+  - component: {fileID: 4846069827833256357}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1644210708597460273
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8707080395566739937}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -13.999989, y: -4.6186362e-14, z: -8.000011}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4338558092750326169}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4846069827833256357
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8707080395566739937}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &8965777754094342697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6836270608185780248}
+  - component: {fileID: 9193990687632207312}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6836270608185780248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8965777754094342697}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015454331, y: 0.7071059, z: -0.000000015454289, w: 0.7071077}
+  m_LocalPosition: {x: -6, y: 6.82121e-13, z: 0.000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &9193990687632207312
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8965777754094342697}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &9055766725069645972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3026177363174283042}
+  - component: {fileID: 6827314376138960267}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3026177363174283042
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9055766725069645972}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000021855694, y: 0.000002592802, z: -0.000000021855755,
+    w: -1}
+  m_LocalPosition: {x: -18.000011, y: -7.212035e-13, z: -4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6923187501382301886}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6827314376138960267
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9055766725069645972}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &9111242405168782899
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6618580886357152542}
+  - component: {fileID: 3140493922958650322}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6618580886357152542
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9111242405168782899}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000004371154, y: 1, z: -0.000000021855875, w: 0.0000014603138}
+  m_LocalPosition: {x: 0.0003414154, y: -0.00000017488311, z: -13.999573}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &3140493922958650322
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9111242405168782899}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &9171576063849945311
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8068017245558607659}
+  - component: {fileID: 821577979605214146}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8068017245558607659
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9171576063849945311}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000021855755, y: -0.0000011920929, z: 0.00000004371158,
+    w: 1}
+  m_LocalPosition: {x: 0.000056266785, y: 0.0000005244819, z: -9.999512}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1183809794855041983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &821577979605214146
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9171576063849945311}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &9184546423408367871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5308427420232435305}
+  - component: {fileID: 5034561566643073974}
+  m_Layer: 7
+  m_Name: WorldKnot(Clone)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5308427420232435305
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9184546423408367871}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000015454289, y: 0.7071077, z: -0.000000015454331, w: -0.7071059}
+  m_LocalPosition: {x: -14, y: -3.410605e-13, z: -0.000005722046}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6664297765873632846}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5034561566643073974
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9184546423408367871}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 8
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &3087979863241568287
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5468560978196024500}
+    m_Modifications:
+    - target: {fileID: 630221476149795199, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_Name
+      value: Crosswalk_24m_A
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.00012207031
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.4528309e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.1286618e-10
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071077
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000015454331
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071059
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000015454289
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5923074635107126286}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1899638857141287561}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 299791272078740569}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1215470786494456918}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4179736066657663450}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3880534991476166561}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5664149043594339974}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 74511449851858394}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1644210708597460273}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4053375011517267396}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1778576228427839369}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5152324931557589369}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 34a7f0ba17ae0514a838d653ce9eeb90, type: 3}
+--- !u!4 &4338558092750326169 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+    type: 3}
+  m_PrefabInstance: {fileID: 3087979863241568287}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6086020471332051888 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+    type: 3}
+  m_PrefabInstance: {fileID: 3087979863241568287}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5373714956754026440
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5468560978196024500}
+    m_Modifications:
+    - target: {fileID: 630221476149795199, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_Name
+      value: Crosswalk_24m_A (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.000091552734
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.000001049068
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -23.999878
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4822819942774230307}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6318741048657668368}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6836270608185780248}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6127749210439707564}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2422217675558694403}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1020446387827605353}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5308427420232435305}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1402630777595797785}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5551210860153881298}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4062432972900034731}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6051544937940610987}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1454487104653995308}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 34a7f0ba17ae0514a838d653ce9eeb90, type: 3}
+--- !u!4 &3763904574408414311 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+    type: 3}
+  m_PrefabInstance: {fileID: 5373714956754026440}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6664297765873632846 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+    type: 3}
+  m_PrefabInstance: {fileID: 5373714956754026440}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8043018957275679811
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5468560978196024500}
+    m_Modifications:
+    - target: {fileID: 630221476149795199, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_Name
+      value: Crosswalk_24m_A (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.00017356873
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000034969645
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5898194684529135472}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2868060530332080479}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4097954164363932720}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3176202048640049995}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8206768324261892419}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8762776662404172985}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6048893246896066682}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5038828020973555644}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6845186347260482787}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4125692693805059459}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3894460987665195418}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1059463054467749204}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 34a7f0ba17ae0514a838d653ce9eeb90, type: 3}
+--- !u!4 &1239014554520020972 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+    type: 3}
+  m_PrefabInstance: {fileID: 8043018957275679811}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8750944784949147077 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+    type: 3}
+  m_PrefabInstance: {fileID: 8043018957275679811}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8573455732085997880
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5468560978196024500}
+    m_Modifications:
+    - target: {fileID: 630221476149795199, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_Name
+      value: Crosswalk_24m_A (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -32.000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.808524e-12
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.000082016304
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071077
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000015454331
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071059
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000015454289
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 271821960903897609}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3166327172042010102}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 669424088554391598}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8427704766598206930}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6960432537346028746}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3523814007209142635}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6140508965247013138}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2804566052072366469}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2566118386734095408}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1475651877418701171}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3026177363174283042}
+    - targetCorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 848922892177202265}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 34a7f0ba17ae0514a838d653ce9eeb90, type: 3}
+--- !u!4 &600208678600567447 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9128609581517384623, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+    type: 3}
+  m_PrefabInstance: {fileID: 8573455732085997880}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6923187501382301886 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1652560248769427846, guid: 34a7f0ba17ae0514a838d653ce9eeb90,
+    type: 3}
+  m_PrefabInstance: {fileID: 8573455732085997880}
+  m_PrefabAsset: {fileID: 0}

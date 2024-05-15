@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db0866ab1db4d440a6b403acfb92fdf, type: 3}
+  m_Name: Dodge Challenger Data
+  m_EditorClassIdentifier: 
+  originalPrefab: {fileID: 3441395540015183823, guid: 6bf690010bca3ec429f2da2b5dbeb92d,
+    type: 3}
+  blankPrefab: {fileID: 3441395540015183823, guid: 583964a229825ae4991e0ea9bf360a6e,
+    type: 3}
+  maxSpeed: 35
+  acceleration: 15
+  deceleration: 35
+  price: 0
+  IsBought: 1

@@ -1,0 +1,27 @@
+Thank you for purchasing Modular Highways & Freeways!
+
+Q: All of the highways use an asphalt material. How do I apply a concrete material?
+A: Simply drag and drop the "Highway_Surface_Concrete" and "Highway_Edges_Concrete" materials onto your road surfaces.
+
+Q: How do I use the service interchanges? The bridges have no road surfaces.
+A: The service interchanges are intended to be used with Modular Roads & Avenues (https://assetstore.unity.com/packages/3d/environments/roadways/modular-roads-avenues-257301), but can also be overlapped with other road assets.
+
+Q: Why are some of the barriers and streetlights disappearing at a distance?
+A: All prefabs have LOD Groups setup. Lower the "Culled" percentage to improve visibility.
+
+Q: Why am I seeing Z-fighting / flickering textures?
+A: You may have to raise each prefab slightly above the ground, or lower your terrain. A 0.02 gap along the Y-axis will usually do the trick.
+
+Q: Why aren't all of the highway lights showing?
+A: Go to Edit > Project Settings > Quality and increase Pixel Light Count to 128 or above.
+
+Q: How do I adjust or disable all the highway lights?
+A: Place all of your prefabs, then search the Hierarchy for "Highway_Light". Select all of them and adjust. For lower end platforms, I would recommend switching to baked lighting or adding each light to the existing LOD Groups.
+
+Q: I have suggestions for other types of highways and interchanges. How do I send them in?
+A: I'm always open to suggestions and ideas! Send me an email: maurorobertvos@gmail.com. Please keep in mind I am unable to add every type of interchange, so I decided to focus on the most common and versatile ones.
+
+Q: I'm having an issue that isn't mentioned here.
+A: I'm sorry if your question hasn't been answered! Send me an email: maurorobertvos@gmail.com.
+
+Please leave a review on the Unity Asset Store!

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db0866ab1db4d440a6b403acfb92fdf, type: 3}
+  m_Name: Lamborgini Aventador Data
+  m_EditorClassIdentifier: 
+  originalPrefab: {fileID: 5864566764481765432, guid: 935e25b4a0507b0469e249703088e53b,
+    type: 3}
+  blankPrefab: {fileID: 5864566764481765432, guid: 316c60f2110e0874f888d53886bd1852,
+    type: 3}
+  maxSpeed: 55
+  acceleration: 35
+  deceleration: 55
+  price: 810
+  IsBought: 1
