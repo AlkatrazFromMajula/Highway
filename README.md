@@ -1,4 +1,5 @@
 # Highway
+![New Project - Made with Clipchamp (1)](https://github.com/AlkatrazFromMajula/Highway/assets/61757792/fd3b1fc6-49fe-48ba-a6c2-2f2cd3b09d9e)
 
 This is the second project in my series of little educational projects. In Highway I've used a fresh learned technique,
 establishing project's architecture with scriptable objects. I love flexibility, modularity and autonomy that scriptable objects
